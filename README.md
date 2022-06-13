@@ -1,2 +1,2 @@
 # Manipulate-walls---FreeCAD
-Macros criadas com Python para automatizar a manipulação de paredes arquitetônicas no FreeCAD 
+Macros created with Python to automate the manipulation of architectural walls in FreeCAD
