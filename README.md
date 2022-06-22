@@ -1,4 +1,4 @@
-# Manipulate-walls---FreeCAD
+# Manipulate-walls-FreeCAD
 Macros created with Python to automate the manipulation of architectural walls in FreeCAD
 
 <h2>General description:</h2>
@@ -45,3 +45,12 @@ Macros created with Python to automate the manipulation of architectural walls i
 <h2>Installation without buttons and icons:</h2>
   
 <p>To install your macros without buttons and icons, just copy all the files to your macros folder and access them through the Macros button.</p>
+
+<h2>What may come in future updates.</h2>
+
+<ul>
+  <li>It is planned to implement in the tools support for walls not perpendicular to the axes (walls diagonally across the planes)</li>
+  <li>Tool similar to Revit's Fillet tool, to create chamfers between walls or rounded corners.</li>
+  <li>Tool to create stacked walls Similar to Revit.</li>
+  <li>Tool to Link the top and bottom of walls to Levels.</li>
+</ul>
